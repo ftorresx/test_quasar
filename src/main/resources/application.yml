@@ -1,0 +1,9 @@
+server:
+  port: 80
+#spring:
+#  data:
+    #    mongodb:
+    #  uri: "mongodb://adn:adn@vps-d785e317.vps.ovh.ca:27017/adn-db?authSource=adn-db&connectTimeoutMS=30000&maxPoolSize=15&retryWrites=true&w=majority"
+  #  auto-index-creation: false
+    # codec:
+  # max-in-memory-size: 100MB
